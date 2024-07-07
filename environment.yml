@@ -2,6 +2,6 @@ name: MaximusLLM
 channels:
   - defaults
 dependencies:
-  - python=3.x
+  - python=3.11.9
   - jupyter
   # Add other dependencies here
