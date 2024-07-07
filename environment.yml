@@ -1,0 +1,7 @@
+name: MaximusLLM
+channels:
+  - defaults
+dependencies:
+  - python=3.x
+  - jupyter
+  # Add other dependencies here
