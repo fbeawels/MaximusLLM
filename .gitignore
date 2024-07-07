@@ -15,3 +15,6 @@ venv/
 
 # Model files
 models/
+
+# Additional modules 
+modules/
