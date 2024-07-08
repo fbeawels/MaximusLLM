@@ -15,6 +15,10 @@ venv/
 
 # Model files
 models/
+notebooks/checkpoint_dir/
+notebooks/wandb/
+notebooks/phi3-128k-3b-v0.1/
+
 
 # Additional modules 
 modules/
